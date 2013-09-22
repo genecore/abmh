@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABMH</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome!</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter">Enter the room number</string>
+    <string name="details">Enter the room number (1 to 36)</string>
+    <string name="title_activity_actual">ActualActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sample__base">Sample_Base</string>
+    <string name="details1">Room Number </string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_text1">First Name</string>
+    <string name="button1">Save</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_display_messgage">Message</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_message">This will be the place for settings!</string>
+
+</resources>
